@@ -1,4 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kreshiv Gulati</h1>
+
+<h3 align="center">
+B.Tech IT @ IIIT Una • BS in Data Science @ IIT Madras <br>
+Full Stack Developer • Machine Learning Enthusiast • Competitive Programmer
+</h3>
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-24292E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Kreshiv_Gulati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Kreshiv_Gulati-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 <!--
 **kreshivgulati/kreshivgulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
