@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Kreshiv Gulati</h1>
+<h2 align="center">Hi, I'm Kreshiv Gulati</h2>
 
-<h3 align="center">
+<p align="center">
 B.Tech IT @ IIIT Una • BS in Data Science @ IIT Madras <br>
 Full Stack Developer • Machine Learning Enthusiast • Competitive Programmer
-</h3>
+</p>
 
 <p align="center">
 
