@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kreshiv Gulati</h1>
+<h1 align="center">Hi, I'm Kreshiv Gulati</h1>
 
 <h3 align="center">
 B.Tech IT @ IIIT Una • BS in Data Science @ IIT Madras <br>
